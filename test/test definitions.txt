@@ -1,0 +1,16 @@
+Semantic Tags: Tags which have specific usecases.
+    Example: 1.h tags(<h1></h1>): used to show bold headings.
+             2.<hr>: used to create a seperation in the program for organized purposes.
+
+Non-Semantic tags: Tags which do not have specific usecases
+    Example: div tags (<div></div>)
+             span tags (<span></span>)
+
+
+Best practices for SEO FRIENDLY markups:
+1. Better discription for more user approachability.
+2. Better and orrganised usecases of Title and Header tags
+
+Tags used: <Title></title> 
+           <img>
+           <meta name="description">
